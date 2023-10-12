@@ -3,6 +3,7 @@ import css from 'components/Profile/Profile.module.css';
 export const Profile = () => {
   return (
     <div className={css.profile}>
+      <h3>Task 1</h3>
       <div className={css.description}>
         <img
           src="https://cdn-icons-png.flaticon.com/512/1077/1077012.png"
